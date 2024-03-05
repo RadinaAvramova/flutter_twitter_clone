@@ -24,7 +24,7 @@ Source Code for Full Stack Twitter App - Works on Android & iOS!
 
 ## Installation
 After cloning this repository, migrate to `flutter_twitter_clone` folder. Then, follow the following steps:
-- Install Appwrite (Installation Steps [here](https://appwrite.io/docs/installation)
+- Install Appwrite
 - Create Appwrite Project Locally
 - Create Android & iOS Apps in the Dashboard
 - Create Appwrite Database, Storage
